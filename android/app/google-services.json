@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553519569781",
+    "project_id": "brainshare-4e2ac",
+    "storage_bucket": "brainshare-4e2ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553519569781:android:f91fcb2d0a93e13074513c",
+        "android_client_info": {
+          "package_name": "com.example.brainshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553519569781-fl9tt5hnejg36bft2t8l2pn2o0hsoip7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7QREQiR4hqWDAozM7RxwPdPGq1kSO5PY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553519569781-fl9tt5hnejg36bft2t8l2pn2o0hsoip7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
