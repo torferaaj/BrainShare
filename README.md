@@ -1,4 +1,4 @@
-# brainshare
+# BrainShare Mobile Application
 
 A new Flutter project.
 
